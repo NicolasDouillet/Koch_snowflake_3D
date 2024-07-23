@@ -2,7 +2,7 @@ function [V, T] = Koch_snowflake_3D(nb_it, printable_ready, option_display)
 %% Koch_snowflake_3D : function to compute, display, and save 
 % a 3D Koch snowflake at any iteration / depth level.
 %
-% Author & support : nicolas.douillet (at) free.fr, 2019-2020.
+% Author : nicolas.douillet9 (at) gmail.com, 2019-2024.
 %
 %
 % Syntax
